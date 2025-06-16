@@ -1,2 +1,2 @@
 # I-lang
-I-lang is aprogramming language for CC:Tweaked
+I-lang is a programming language for CC:Tweaked
